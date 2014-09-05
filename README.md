@@ -1,8 +1,8 @@
-thinkcspy-tr
-============
+ExpEYES-jr Turkish Translation
+===============================
 
-Create a new repository on the command line
---------------------------------------------
+Create a new repository on the command line (Notes for me)
+-----------------------------------------------------------
 
 * touch README.md
 * git init
